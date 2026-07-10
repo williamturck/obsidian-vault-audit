@@ -1,0 +1,11 @@
+# Syncthing runtime
+.stfolder/
+.stversions/
+.stignore
+
+# Obsidian plugin with API key — matches .stignore exclusion; must not go to GitHub
+.obsidian/plugins/obsidian-local-rest-api/
+
+# Workspace layout state — changes every open, no audit value
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
