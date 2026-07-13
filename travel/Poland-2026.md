@@ -33,15 +33,21 @@
 ---
 
 ## Billeje ⬜ MANGLER (høj prioritet)
+## Billeje ✅ BOOKET
 
+- **Booket via:** qeeq.com (udlejer: Ace Car Rental)
+- **Bil:** VW Golf Estate (stationcar) eller lignende, automatgear
 - **Periode:** 13. juli kl. 9:00 → 29. juli kl. 21:00, Kraków Lufthavn (KRK)
-- **Valg:** Sixt Peugeot 308 SW (stationcar), automatgear — 3.765 kr
-- Alternativ: MM Cars Kia Ceed SW/Seat Leon STW, automat — 3.318 kr, men kræver shuttle + ekstra fører-gebyr (tjek pris før helt fravalgt)
-- **Slovakiet cross-border (Sixt):** 11 EUR/dag × 4 dage = 44 EUR (~330 kr)
-- **VIGTIGT ved afhentning:** informér udlejer om Slovakiet-kørsel, og bekræft om dækningen er begrænset til Slovakiet eller bredere
-- Slovakisk e-vignette: eznamka.sk — købes inden grænsepassage, følger ikke med polsk lejebil
-
----
+- **Basepris:** 3.564 kr
+- **Ekstra fører:** 100 PLN (~173 kr)
+- **Cross-border:** 307,50 PLN (~532 kr) — dækker Tyskland, Tjekkiet, Slovakiet, Litauen
+- **Total:** ~4.269 kr
+- **Depositum:** 4.500 PLN (fysisk kreditkort påkrævet, ikke virtuelt)
+- **Forsikring:** CDW + tyveri (selvrisiko 4.500 PLN hver). ⚠️ Ruder, dæk og undervogn IKKE dækket
+- **Benzin:** Fuld-til-fuld
+- **Km:** Ubegrænset
+- **Afhentning:** Kraków Lufthavn
+- **Bemærk:** Kreditkortgebyr kan pålægges ved skranken
 
 ## Ben 1 — Białka Tatrzańska ✅ (man 13/7 – lør 18/7, 5 nætter)
 
@@ -56,9 +62,22 @@
 - **Dunajec-rafting** som dagstur (35 min fra Białka) — book i god tid, juli er højsæson.
 - Terma Bania som buffer-/regnvejrsdag.
 
-**Mad:** Karczma u Miescorza — kwaśnica, grillet oscypek, placki ziemniaczane.
+**Mad:**
+- **Karczma u Miescorza** — kwaśnica, grillet oscypek, placki ziemniaczane (din oprindelige anbefaling)
+- **Karczma Litworowy Staw** — bedste restaurant i Białka iflg. anmeldelser, børnemenu, autentisk Podhale-køkken (Hermes' anbefaling)
+- **Backup:** Górska (lige ved hotellet)
 
----
+
+**Hvad skal du bestille? — Litworowy Staw (Podhale-specialiteter):**
+- 🥇 **Kwaśnica "tatrzańska" z wędzonym żebem** (24 zł) — syrlig surkålssuppe med røget ribben
+- 🥇 **Szarpana jagnięcina na moskolach z grillowanym oscypkiem** (58 zł) — pulled lamb på kartoffel-fladbrød med grillet oscypek (#1 anbefalet)
+- 🥇 **Oscypek grillowany z sosem żurawinowym** (28 zł) — grillet røget fåreost med tranebærsauce (starter)
+- **Pierogi z ziemniakami i bryndzą** (41 zł) — kartoffel- og fåreost-pierogi
+- **Placek po "zbójnicku"** (56 zł) — kartoffelpandekage m. oksegullasch, creme fraiche, oscypek. Solid og børnevenlig.
+- **Polędwica wołowa "po góralsku"** (72 zł) — oksetenderloin "bjergmands-style" m. oscypek, peberrod, tranebær
+- **Pstrąg grillowany** (43 zł) — frisk grillet ørred fra Tatra
+- **Til børnene:** Micha pierogów (48 zł, 12 stk. blandet) eller placki ziemniaczane (41 zł)
+- ⚠️ Undgå: krewetki, burger — hold dig til det regionale: oscypek, bryndza, jagnięcina, surkål, rødbede, kartofler, ørred, svampe.
 
 ## Ben 2 — Liptov, Slovakiet ✅ (lør 18/7 – ons 22/7, 4 nætter)
 
@@ -119,13 +138,12 @@
 ---
 
 ## Mangler at booke — prioritet
+## Mangler at booke — prioritet
 
 1. **Kraków-overnatning 25.–29. juli** — højeste prioritet, afrejse om ~11 dage. Ring til Golden Tulip + Family Apartments Pułaskiego i aften.
-2. **Billeje** — priser stiger, book snarest
+2. ~~Billeje~~ ✅ Booket (qeeq.com / Ace Car Rental)
 3. **Dunajec-rafting** — kan bookes tættere på, men juli er højsæson
 4. Wieliczka-billetter, Morskie Oko-parkering, Kasprowy Wierch-billetter
-
----
 
 ## Budget (estimat, 5 personer)
 
@@ -136,10 +154,10 @@
 | Liptov (4 nætter, Lake Garden, inkl. morgenmad) | 9.450 kr ✅ |
 | Czorsztyn (3 nætter) | ~7.150 kr ✅ |
 | Kraków (4 nætter) | 4.000–8.000 kr ⬜ |
-| Billeje inkl. cross-border | ~4.100 kr ⬜ |
+| Billeje inkl. cross-border | ~4.300 kr ✅ |
 | Mad, aktiviteter, billetter | 8.000–11.000 kr |
 | **I alt (estimeret)** | **~48.000–55.000 kr** |
 
 ---
 
-*Version: opdateret med bekræftet Lake Garden-pris (1.270 EUR inkl. morgenmad). Udestående: Kraków-overnatning og billeje — begge højeste prioritet.*
+*Version: opdateret med billeje booket (qeeq.com / Ace Car Rental). Udestående: Kraków-overnatning — højeste prioritet.*
