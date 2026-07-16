@@ -1,5 +1,5 @@
 ---
-updated: 2026-07-13
+updated: 2026-07-15
 ---
 # Kraków, Tatra & Slovakiet — roadtrip 13.–29. juli 2026
 
@@ -51,50 +51,54 @@ updated: 2026-07-13
 - **Afhentning:** Kraków Lufthavn
 - **Bemærk:** Kreditkortgebyr kan pålægges ved skranken
 
+---
+
 ## Ben 1 — Białka Tatrzańska ✅ (man 13/7 – lør 18/7, 5 nætter)
+
+**Bo:** Aparthotel Diamond SPA Aqua — én familielejlighed, aircon, køkkenniche m. opvaskemaskine, indendørs pool + spa i huset. Terma Bania 19 min til fods. Pris: 8.500 kr.
 
 ### Vejr — tjek dagligt
 - **morgen:** https://www.meteo.pl/ (Zakopane, Nowy Targ, Kraków) eller https://www.yr.no/nb (søg "Zakopane")
 - ⚠️ Kasprowy Wierch-kabelbanen lukker ved torden — tjek altid før afgang
 - ⚠️ Morskie Oko: regntøj + gode sko er nok, men torden = udskyd
 
-**Bo:** Aparthotel Diamond SPA Aqua — én familielejlighed, aircon, køkkenniche m. opvaskemaskine, indendørs pool + spa i huset. Terma Bania 19 min til fods. Pris: 8.500 kr.
-
-**Ankomstdag (mandag 13/7):** Land 08:30 → hent bil ~09:15 → kør mod Nowy Targ → **Botanica Cafe Bistro** (Szkolna 2, Nowy Targ) brunch ~10:15 → storindkøb i Nowy Targ (Lewiatan eller Kaufland) → ankomst Białka ~12:00 → **Terma Bania** 12–16 (termiske bade + Kids Zone) → check-in 16:00 → aftensmad **Karczma Litworowy Staw** (bestil: kwaśnica, jagnięcina, oscypek).
+**Ankomstdag (mandag 13/7) ✅:** Land 08:30 → hent bil ~09:15 → kør mod Nowy Targ → **Botanica Cafe Bistro** (Szkolna 2, Nowy Targ) brunch ~10:15 → storindkøb i Nowy Targ (Lewiatan eller Kaufland) → ankomst Białka ~12:00 → **Terma Bania** 12–16 (termiske bade + Kids Zone) → check-in 16:00. Planlagt aftensmad var Litworowy Staw, men **ikke bekræftet besøgt** — se Mad, stadig til gode.
 
 **Dag-for-dag:**
 
 | Dag | Dato | Plan |
 |---|---|---|
-| **Man** | 13/7 | Ankomst (se ovenfor) |
-| **Tir** | 14/7 | **Kasprowy Wierch** — kabelbane Kuźnice→1.987 m (book online). Kombinér med Zakopane by (Krupówki, oscypek). |
-| **Ons** | 15/7 | **Dolina Kościeliska** — flad dalvandring, klapvognsvenlig |
-| **Tor** | 16/7 | **Morskie Oko ✅ BOOKET** — afsted 7:00–7:30. Parkering Palenica Białczańska (forudbooket via parking.tpn.pl). Hestevogn op med Erik, sidste 2 km til fods. Szarlotka ved bjerghytten. |
-| **Fre** | 17/7 | Buffer-/regnvejrsdag — Terma Bania eller **Dunajec-rafting** (35 min fra Białka, book i god tid). |
+| **Man** | 13/7 | ✅ Ankomst (se ovenfor) |
+| **Tir** | 14/7 | ✅ **Kasprowy Wierch** + Zakopane (Krupówki) — afviklet, detaljer nedenfor |
+| **Ons** | 15/7 | ✅ **Terma Bania** — se detaljer nedenfor |
+| **Tor** | 16/7 | **Morskie Oko ✅ BOOKET** — afsted 7:00–7:30. Parkering Palenica Białczańska (forudbooket via parking.tpn.pl). Hestevogn op med Erik, sidste 2 km til fods. Szarlotka ved bjerghytten. Udsigt: spredte byger mulige — regntøj med, tidlig start rammer det tørreste vindue. |
+| **Fre** | 17/7 | Buffer — **Dolina Kościeliska** (flyttet hertil fra onsdag; ugens bedste vejr, flad dalvandring, klapvognsvenlig) eller **Dunajec-rafting** (35 min, book i god tid). Evt. middag på **Le Chalet** (se Mad). |
 | **Lør** | 18/7 | Transferdag til Liptov |
 
-**Mad:**
-- **Karczma u Miescorza** — kwaśnica, grillet oscypek, placki ziemniaczane (din oprindelige anbefaling)
-- **Karczma Litworowy Staw** — bedste restaurant i Białka iflg. anmeldelser, børnemenu, autentisk Podhale-køkken (Hermes' anbefaling)
-- **Backup:** Górska (lige ved hotellet)
+### Tirsdag 14/7 — Kasprowy Wierch ✅ AFVIKLET
 
+Log/reference:
+- **Billetter:** Tourpass góra-dół 11:40, 2× normalny + 3× ulgowy = 693 zł (ordre B2C260153404, navn: William Zahle Türck)
+- **Parkering:** Your Parking App P+R, Droga Oswalda Balzera 18 A, 10:15–15:15, res.nr. REZ_18757_13072026, bil WJ7063P. Ejer tlf. [+48 506 671 173](tel:+48506671173). ~15–20 min gang til Kuźnice. Fungerede fint — genbrug ved evt. senere Zakopane-besøg.
+- **Frokost:** Leśniczówka Resto Bar ved Kuźnice — rigtig fin (se Mad)
+- Krupówki-slentretur + is hos Żarneccy (Krupówki 48B)
 
-### Tirsdag 14/7 — Kasprowy Wierch
-**Billetter:** ✅ BOOKET — Tourpass góra-dół, afgang 11:40
-- 2× normalny + 3× ulgowy = 693 zł total
-- Billetten står i **William Zahle Türcks** navn — medbring ID
-- **Check-in Kuźnice senest 11:20** (20 min før). Forsinkelse → pladsen bortfalder, ny miejscówka 45 zł kun hvis ledigt
+### Onsdag 15/7 — Terma Bania ✅ AFVIKLET
 
-**Logistik:**
-- **Afgang hotel:** senest 10:15, sigt 10:00 (kørsel 35–45 min + parkering/gang 15–20 min + juli-buffer)
-- ⚠️ Privatbiler må **ikke** køre ind i Kuźnice
-- **Parkering:** ✅ BOOKET — Your Parking App P+R, Droga Oswalda Balzera 18 A, 34-500 Zakopane. Reserveret 10:15–15:15. Reservationsnr: **REZ_18757_13072026**. Bil: **WJ7063P** (Citroën C3 Aircross). Vis reservationsbekræftelse (skærmbillede/mail) ved indkørsel. Ejer tlf. [506 671 173](tel:506 671 173). ~15–20 min gang til stationen.
+- **Billet:** Rodzinny Wypoczynek 2+3, købt online (297 zł, Strefa Zabawy 3,5 t). ⚠️ 1 zł-billetten til børn <104 cm kan **ikke kombineres** med online-familiepakken — bekræftet af Hermes, brug ikke den kombination.
+- **Parkering:** gratis, stort, bevogtet parkeringsanlæg lige ved indgangen (ul. Środkowa 181).
+- **Plan:** ankomst 9:30 (før weekend-/regnvejrsmylder) → 9:30–13:30 i Strefa Zabawy → frokost **Kotelnica od kuchni** (Środkowa 181b, samme adresse — 12 gastro-boder, street food-stil, ingen lang siddetid nødvendig med våde badebørn) → eftermiddag: hvile/hotellets egen pool, ingen ny aktivitet lagt oveni pga. tidlig Morskie Oko-start i morgen → aftensmad **Górska** eller **Litworowy Staw** (begge stadig ubesøgte, se Mad — vælg efter hvad der kan tage jer tidligst).
 
-**Efter turen:**
-- Krupówki (gågade) — slentretur, oscypek-boder
-- Aftensmad/sen frokost: **Bąkowo Zohylina Niźnio** (traditionel góral-hytte, live folkemusik), Piłsudskiego 6, Zakopane
+**Mad (Białka & omegn):**
+- **Karczma Litworowy Staw** — bedste restaurant i Białka iflg. anmeldelser, børnemenu, autentisk Podhale-køkken, eget brød. **Stadig ubesøgt.**
+- **Restauracja Górska** — 4,8★/3.200+ anm., kort gåtur fra hotellet, kreativ regional mad, kvalitetsniveau over standard-karczma. **Stadig ubesøgt.**
+- **Kotelnica od kuchni** (Środkowa 181b, ved Terma Bania) — street food-marked, 12 gastro-boder (góral-specialiteter, hurtige snacks, kaffe/sødt). Perfekt til frokost efter badeland.
+- **Leśniczówka Resto Bar** (Kuźnice, Zakopane) — ✅ besøgt 14/7, rigtig fin. Sæsonbaseret, lokale råvarer, terrasse mod nationalparken. NB: intet reelt vinkort trods hjemmesidens påstand.
+- **Le Chalet** (Sądelska 86b, Murzasichle, ~15 min fra Białka) — italiensk boutique-restaurant siden 1991, familien Graffi. **Vinkort med Bressan** (Carat + Verduzzo orange wine, Schioppettino, Pinot Nero) samt bio col fondo-frizzante. Man–tor: kun smagsmenu m. reservation. Fre–søn: à la carte 13–21, **grupper på 5+ kræver reservation**. Tlf. +48 18 208 43 82. Oplagt fredag aften.
+- ~~Karczma u Miescorza~~ — **frasorteret**: kun 3,6-3,7★, uafhængige anmeldelser nævner små portioner, tilfældig serveringsrækkefølge og ligegyldig betjening. Ikke et match til jeres niveau.
+- **Zakopane:** Bąkowo Zohylina Niźnio (góral-hytte m. live folkemusik — turistet men solid, 4,6★) · Żarneccy is, Krupówki 48B (familiedrevet siden 1948, is på vægt)
 
-**Vejrvurdering:** 🔆 Tirsdag er ugens bedste dag — op til 23°C, ingen nedbør af betydning. Onsdag (15/7) er modsat ugens dårligste → Kasprowy-turen er korrekt placeret. ⚠️ **OBS:** Afgang 11:40 er senere end ideelt (tidligt 8–11-vindue var udsolgt for gruppe på 5). Skyer bygger typisk op over toppene efter formiddagen — udsigten kan være mere begrænset end ved tidlig afgang. Tag varmt tøj (1.987 m, ~10°C koldere end dalen).
+---
 
 ## Ben 2 — Liptov, Slovakiet ✅ (lør 18/7 – ons 22/7, 4 nætter)
 
@@ -102,7 +106,7 @@ updated: 2026-07-13
 
 **Pris:** 1.270 EUR (~9.450 kr) for opholdet, inkl. morgenmad.
 
-**Transferdag:** Kør via Jurgów/Ždiar (slovakisk e-vignette). Stop ved **Bachledka trætopvandring**: 600 m gangbro i trækronerne, udsigtstårn, tør-rutsjebane.
+**Transferdag:** Kør via Jurgów/Ždiar (slovakisk e-vignette). Stop ved **Bachledka trætopvandring**: 600 m gangbro i trækronerne, udsigtstårn, tør-rutsjebane. ⚠️ Tjek vejret — tordenbyger kan lukke den.
 
 **Ugens oplevelser:**
 - **Demänovská-grotterne** (20 min): Frihedsgrotten + Ishulen, 6–7°C — fleece med.
@@ -131,7 +135,12 @@ updated: 2026-07-13
 
 ## Ben 4 — Kraków ⬜ MANGLER (lør 25/7 – ons 29/7, 4 nætter)
 
-**Ønsket:** Kazimierz-området, 3 soveværelser, parkering, 5 personer, gerne aircon.
+**Transferdag (lør 25/7) — Wieliczka-saltminen på ruten:**
+Tjek ud af Czorsztyn Prestige → kør ~1,5 t mod Kraków → **Wieliczka-saltminen** (ligger ~15 km før Kazimierz, praktisk talt på ruten) → de sidste 20-30 min til Kazimierz, check-in.
+- **Book:** Trasa Turystyczna (turistruten) på visit.wieliczka-saltmine.com — **tidsrum 11–13** passer transferlogistikken. Book NU — udsolgtes i juli.
+- **Praktisk:** ~2-3 timer, starter med ~380 trappetrin ned (elevator op til sidst). Erik kan klare den. Fast ~17-18°C dernede — let trøje med, også i juli.
+
+**Ønsket bolig:** Kazimierz-området, 3 soveværelser, parkering, 5 personer, gerne aircon.
 
 **Status:** Qubus Hotel og PURO Kazimierz — begge udsolgt.
 
@@ -146,7 +155,7 @@ updated: 2026-07-13
 
 **Planlagte oplevelser:**
 - Wawel + dragehulen, Rynek, undergrundsmuseet.
-- **Wieliczka-saltminen** — book billetter NU, udsolgtes i juli.
+- **Wieliczka-saltminen** ✅ lagt på transferdagen 25/7 — se øverst i dette ben.
 - **Zakrzówek**-badesøen (gratis, kapacitetsstyret — kom før kl. 10 eller efter 17).
 - **Energylandia** (Zator, 40 min mod lufthavnen) på afrejsedagen: tjek ud → hel dag i parken inkl. waterpark → kør til lufthavnen kl. 19-20 → fly 23:35.
 - Kazimierz om aftenen: Plac Nowy zapiekanka, pierogi. Krako Slow Wines i Zabłocie/Podgórze.
@@ -156,10 +165,10 @@ updated: 2026-07-13
 
 ## Mangler at booke — prioritet
 
-1. **Kraków-overnatning 25.–29. juli** — højeste prioritet, afrejse om ~11 dage. Ring til Golden Tulip + Family Apartments Pułaskiego i aften.
-2. **Kasprowy Wierch-billetter** ✅ BOOKET 14/7 kl. 11:40 — se detaljer under Ben 1
-3. **Dunajec-rafting** — kan bookes tættere på, men juli er højsæson
-4. Wieliczka-billetter
+1. **Kraków-overnatning 25.–29. juli** — højeste prioritet, afrejse hjem om 14 dage. Ring til Golden Tulip + Family Apartments Pułaskiego.
+2. **Wieliczka-billetter** — book NU (udsolgtes i juli): Trasa Turystyczna, **lør 25/7 kl. 11–13** (transferdagen), 5 personer.
+3. **Dunajec-rafting** — kan bookes tættere på, men juli er højsæson. Fra Białka (fre 17/7) eller Czorsztyn (ben 3).
+4. Evt. **Le Chalet-reservation** fredag 17/7 (5+ personer kræver reservation): +48 18 208 43 82.
 
 ## Budget (estimat, 5 personer)
 
@@ -171,9 +180,11 @@ updated: 2026-07-13
 | Czorsztyn (3 nætter)                            | ~7.150 kr ✅           |
 | Kraków (4 nætter)                               | 4.000–8.000 kr ⬜      |
 | Billeje inkl. cross-border                      | ~4.100 kr ✅           |
+| Kasprowy Wierch (billetter + parkering)         | ~1.250 kr ✅           |
+| Terma Bania (Ons 15/7)                          | ~140 kr ✅             |
 | Mad, aktiviteter, billetter                     | 8.000–11.000 kr       |
 | **I alt (estimeret)**                           | **~48.000–55.000 kr** |
 
 ---
 
-*Version: opdateret med billeje booket (qeeq.com / Ace Car Rental). Udestående: Kraków-overnatning — højeste prioritet.*
+*Opdateret 15/7 undervejs på ben 1: Kasprowy afviklet, Terma Bania afviklet (u Miescorza frasorteret, Kotelnica od kuchni + Górska/Litworowy Staw tilføjet), Kościeliska flyttet til fredag, Le Chalet tilføjet, Wieliczka lagt på transferdagen 25/7. Udestående: Kraków-overnatning — højeste prioritet.*
