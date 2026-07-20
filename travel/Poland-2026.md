@@ -1,5 +1,5 @@
 ---
-updated: 2026-07-18
+updated: 2026-07-19
 ---
 # Kraków, Tatra & Slovakiet — roadtrip 13.–29. juli 2026
 
@@ -88,14 +88,18 @@ Dagsbilletten gælder hele dagen, men intet krav om at blive — og med 4 billet
 - **Undgå:** 11-15, især i regnvejr
 - Mønster: morgendukkert i aquaparken → udflugt → aftentur i hotellets egne pooler (kræver ingen billet)
 
+### Svævebane-brug (inkluderet, én strækning pr. person pr. dag)
+- **Chopok-gondolen fra Jasná** (Lave Tatra, 2.024 m) — bruges **tirsdag 21/7** i forlængelse af grottebesøget (se dagplan nedenfor); Demänovská-dalen og Jasná ligger på samme vej
+- **Skalnaté pleso** (Tatranská Lomnica, Høje Tatra) — mest dramatiske liftttur i regionen: højalpint klippelandskab under Lomnický štít (2.634 m, Slovakiets næsthøjeste top), udsigt over hele Poprad-sletten. ~55 min væk, kræver egen dag (ligger ikke på transferruten). **Kun ved klart vejr** — udsigten ER oplevelsen. Kombinér evt. med Tricklandia (Starý Smokovec, 10 min, indendørs backup ved vejrskift). Ekstra topbane til selve Lomnický štít er IKKE inkluderet — betales særskilt + forudbookes. NB: kun én inkluderet liftstrækning pr. dag, så Hrebienok samme dag koster fuld pris
+
 ### Dagplan (fleksibel — tjek vejret hver morgen på yr.no)
 
-| Dag | Dato | Plan |
-|---|---|---|
-| **Søn** | 19/7 | **Tatralandia-dag** (inkluderet) — 30 tobogganer, tropisk zone. Kør de 2 min, vær der 9-10. Alternativt Bešeňová |
-| **Man** | 20/7 | **Vlkolínec** (UNESCO-tømmerlandsby, 25 min) + middag **Koliba Richtárka**, Čutkovská-dalen — prisbelønnet køkken, egen salaš, samme retning (Ružomberok). NB: Slovenská koliba er LUKKET mandag — derfor Richtárka i dag |
-| **Tir** | 21/7 | **Demänovská-grotterne** (Frihedsgrotten, 6-7° — fleece!) + evt. svævebane i Jasná (inkluderet) → middag **Slovenská koliba**, Jasná: lille menu, alt hjemmelavet. ⚠️ KUN KONTANTER (euro), lukker kl. 20 — gå 17:30 |
-| **Ons** | 22/7 | Transfer til Czorsztyn — **se alternativer nedenfor** |
+| Dag     | Dato | Plan                                                                                                                                                                                                                                                                                 |
+| ------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Søn** | 19/7 | **Tatralandia-dag** (inkluderet) — 30 tobogganer, tropisk zone. Kør de 2 min, vær der 9-10. Aften: **YUZA Restaurant** (Námestie mieru 1, Liptovský Mikuláš) — 4,8★, åbent køkken, moderne mad; NB parkering kun kontant. Alternativ: Fabrica Bistro & Pub (afslappet, gode burgere) |
+| **Man** | 20/7 | **Vlkolínec** (UNESCO-tømmerlandsby, 25 min) + middag **Koliba Richtárka**, Čutkovská-dalen — prisbelønnet køkken, egen salaš, samme retning (Ružomberok). NB: Slovenská koliba er LUKKET mandag — derfor Richtárka i dag                                                            |
+| **Tir** | 21/7 | **Demänovská-grotterne** (Frihedsgrotten, 6-7° — fleece!) + **Chopok-gondolen fra Jasná** (inkluderet svævebanebillet, Lave Tatras top) → middag **Slovenská koliba**, Jasná: lille menu, alt hjemmelavet. ⚠️ KUN KONTANTER (euro), lukker kl. 20 — gå 17:30                         |
+| **Ons** | 22/7 | Transfer til Czorsztyn — **se alternativer nedenfor**                                                                                                                                                                                                                                |
 
 ### Transferdag onsdag 22/7 — muligheder (vælg efter vejr og energi)
 Naturlig rute: nordpå gennem Orava (Dolný Kubín → Trstená → grænsen → Nowy Targ → Czorsztyn), ~2 t + stop.
@@ -104,11 +108,11 @@ Naturlig rute: nordpå gennem Orava (Dolný Kubín → Trstená → grænsen →
 3. **Havránok** — keltisk frilandsfort ved Liptovská Mara, 5 min fra hotellet — kort ben-strækker hvis I bare vil hurtigt frem
 4. **Bešeňová-formiddag** på den sidste inkluderede billet — men efter 4 dage med dagligt termalvand er en borg nok det friskere valg
 
-**Buffer-alternativer i ugen:** Štrbské Pleso + Hrebienok (Høje Tatra, svævebane inkluderet) · Slovenský raj (Suchá Belá kun for de store — del jer) · resortets egne pooler.
+**Buffer-alternativer i ugen:** Štrbské Pleso + Hrebienok (Høje Tatra, svævebane inkluderet) · **Skalnaté pleso** (se svævebane-afsnit ovenfor — kun i klart vejr) · Slovenský raj (Suchá Belá kun for de store — del jer) · resortets egne pooler.
 
 **Salaš-indkøbsliste** (boder langs vej 18/537, skilt "salaš"/"ovčí syr"): upasteuriseret **bryndza**, oštiepok/parenica, korbáčiky (børnesnack), **kvasená kapusta** (fermenteret surkål — Williams afdeling), lokal klobása, medovina/honning.
 
-**Mad-noter:** Botanicus (hotellet) fravalgt efter lørdagens skuffelse. Richtárka + Slovenská koliba er ugens to satsninger — begge kvalitets-kolibaer, ingen vinkort-forventninger (øl/žinčica-land; vin venter til Kraków).
+**Mad-noter:** Botanicus (hotellet) fravalgt efter lørdagens skuffelse. YUZA (søndag), Richtárka (mandag) og Slovenská koliba (tirsdag) er ugens tre satsninger — ingen vinkort-forventninger (øl/žinčica-land; vin venter til Kraków).
 
 ---
 
@@ -177,4 +181,4 @@ Tjek ud → ~1,5 t mod Kraków → **Wieliczka** (15 km før Kazimierz) → 20-3
 
 ---
 
-*Opdateret 18/7 aften: Lake Garden-afstanden korrigeret (2,6 km til aquaparken — kør!), parkering formentlig inkluderet for hotelgæster (bekræft ved reception), kort-besøg-strategi tilføjet, transferdags-alternativer via Orava (Oravský hrad anbefalet) skrevet ind. Udestående: Kraków-bolig + Wieliczka — begge haster.*
+*Opdateret 19/7: Chopok-gondolen lagt ind på tirsdagens grottedag, Skalnaté pleso tilføjet som buffer/klart-vejr-alternativ (Høje Tatra, dramatisk udsigt), søndagens restaurant (YUZA, alt. Fabrica) tilføjet. Udestående: Kraków-bolig + Wieliczka — begge haster.*
