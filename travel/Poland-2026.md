@@ -1,5 +1,5 @@
 ---
-updated: 2026-07-21
+updated: 2026-07-23
 ---
 # Kraków, Tatra & Slovakiet — roadtrip 13.–29. juli 2026
 
@@ -13,11 +13,11 @@ updated: 2026-07-21
 | Base | Datoer | Nætter | Status |
 |---|---|---|---|
 | **Białka Tatrzańska** (Aparthotel Diamond SPA Aqua) | 13.–18. juli | 5 | ✅ Afviklet |
-| **Liptov, Slovakiet** (Lake Garden Tatralandia) | 18.–22. juli | 4 | ✅ Booket — 1.270 EUR (~9.450 kr) inkl. morgenmad · **NU HER** |
-| **Czorsztyn, Polen** (Czorsztyn Prestige Resort) | 22.–25. juli | 3 | ✅ Booket — 4.085 PLN (~7.150 kr) |
-| **Kraków** (Wawel Apartments Old Town) | 25.–29. juli | 4 | ✅ **Booket** — 3.723 kr |
+| **Liptov, Slovakiet** (Lake Garden Tatralandia) | 18.–22. juli | 4 | ✅ Afviklet |
+| **Czorsztyn, Polen** (Czorsztyn Prestige Resort) | 22.–25. juli | 3 | ✅ Booket — 4.085 PLN (~7.150 kr) · **NU HER** |
+| **Kraków** (Wawel Apartments Old Town) | 25.–29. juli | 4 | ✅ Booket — 3.723 kr |
 
-**Kørsel:** Lufthavn → Białka ~2 t · Białka → Liptov ~1 t · Liptov → Czorsztyn ~1–1,5 t · Czorsztyn → Kraków ~1,5–2 t. Ingen etape over 2 timer.
+**Kørsel:** Lufthavn → Białka ~2 t · Białka → Liptov ~1 t · Liptov → Czorsztyn ~1–1,5 t · Czorsztyn → Kraków ~1,5–2 t.
 
 ---
 
@@ -26,12 +26,11 @@ updated: 2026-07-21
 - **Ud:** Norwegian, CPH → Kraków (KRK), **13. juli** (landing 08:30)
 - **Hjem:** Ryanair, Kraków (KRK) → CPH, **29. juli kl. 23:35** — hel sidste dag i Kraków, børnene sover på flyet
 - **Pris:** 6.880 kr total for 5 personer, inkl. 3 × 20 kg indtjekket bagage hver vej
-- To separate bookinger (Norwegian ud, Ryanair hjem — kan ikke samles, forskellige selskaber), alle fem i hver
+- To separate bookinger (Norwegian ud, Ryanair hjem), alle fem i hver
 
 ### Barnesæder
-- **Lovkrav:** Polen og Slovakiet kræver godkendt barnestol/selepude for børn **under 150 cm** — gælder Erik (4½), Dagmar (9) og formentlig Irma (11)
+- **Lovkrav:** Polen og Slovakiet kræver godkendt barnestol/selepude for børn **under 150 cm**
 - **Flyves gratis** begge veje, tæller ikke med i bagagen
-- **Model:** Eriks egen stol med + to pakkbare selepuder (BubbleBum/mifold) til de store i håndbagagen
 
 ---
 
@@ -40,112 +39,113 @@ updated: 2026-07-21
 - **Booket via:** qeeq.com (udlejer: Ace Car Rental)
 - **Bil booket:** VW Golf Estate el.lign. — **udleveret: Citroën C3 Aircross, reg. WJ7063P**
 - **Periode:** 13. juli kl. 9:00 → 29. juli kl. 21:00, Kraków Lufthavn (KRK)
-- **Total:** ~4.085 kr (basispris 3.380 + ekstra fører 100 PLN + cross-border 307,50 PLN)
-- **Depositum:** 4.500 PLN (fysisk kreditkort). **Forsikring:** CDW + tyveri (selvrisiko 4.500 PLN). ⚠️ Ruder, dæk og undervogn IKKE dækket
+- **Total:** ~4.085 kr · **Depositum:** 4.500 PLN (fysisk kreditkort)
+- **Forsikring:** CDW + tyveri (selvrisiko 4.500 PLN). ⚠️ Ruder, dæk og undervogn IKKE dækket
 - **Benzin:** Fuld-til-fuld · **Km:** Ubegrænset
 
 ### Motorvejsvignetter
-- **Slovakiet ✅:** 10-dages e-vignette købt 17/7 til WJ7063P. ⚠️ Købt via mellemhandler (19,80 € inkl. 9 € gebyr — officiel pris 10,80 €).
-- **Fremover: køb ALTID direkte hos myndigheden:** Slovakiet eznamka.sk · Tjekkiet edalnice.cz · Østrig asfinag.at.
+- **Slovakiet ✅:** 10-dages e-vignette købt 17/7 til WJ7063P. ⚠️ Købt via mellemhandler (Letiste Express, 19,80 € inkl. 9 € gebyr — officiel pris 10,80 €)
+- **Fremover: køb ALTID direkte hos myndigheden:** Slovakiet eznamka.sk · Tjekkiet edalnice.cz · Østrig asfinag.at
 
 ---
 
-## Ben 1 — Białka Tatrzańska ✅ AFVIKLET (man 13/7 – lør 18/7, 5 nætter)
+## Ben 1 — Białka Tatrzańska ✅ AFVIKLET (13.–18. juli)
 
-**Bo:** Aparthotel Diamond SPA Aqua — familielejlighed, aircon, indendørs pool + spa i huset. 8.500 kr.
-
-**Dag-for-dag:**
+**Bo:** Aparthotel Diamond SPA Aqua — familielejlighed, aircon, pool + spa i huset. 8.500 kr.
 
 | Dag | Dato | Afviklet |
 |---|---|---|
 | **Man** | 13/7 | ✅ Ankomst: bil, indkøb Nowy Targ, Terma Bania, check-in |
-| **Tir** | 14/7 | ✅ **Kasprowy Wierch** + Krupówki + Żarneccy-is. Frokost Leśniczówka (fin!) |
-| **Ons** | 15/7 | ✅ **Terma Bania** + frokost Kotelnica od kuchni. Aften: **Bubuja Bistro** |
-| **Tor** | 16/7 | ✅ **Morskie Oko** — lang dag: 1 t bus-ventetid + 2 t kø til hestevogn. Alle gik ned til fods. Læring: online-busbillet på forhånd næste gang |
+| **Tir** | 14/7 | ✅ **Kasprowy Wierch** + Krupówki + Żarneccy-is. Frokost Leśniczówka |
+| **Ons** | 15/7 | ✅ **Terma Bania** + Kotelnica od kuchni. Aften: **Bubuja Bistro** |
+| **Tor** | 16/7 | ✅ **Morskie Oko** — 1 t bus-ventetid + 2 t kø til hestevogn. Alle gik ned. Læring: online-busbillet på forhånd |
 | **Fre** | 17/7 | ✅ Pooldag + **Le Chalet, Murzasichle — turens bedste måltid** (italiensk, Bressan-vine) |
-| **Lør** | 18/7 | ✅ Transfer: **Bachledka + Kráľovstvo lesa** → Lake Garden. Botanicus ❌ skuffende, fravalgt |
+| **Lør** | 18/7 | ✅ Transfer: **Bachledka + Kráľovstvo lesa** → Lake Garden. Botanicus ❌ |
 
-**Restaurant-facit:** Le Chalet ⭐ · Leśniczówka ✅ (intet reelt vinkort) · Bubuja ✅ · Botanicus ❌ · ~~u Miescorza~~ frasorteret. Górska + Litworowy Staw ubesøgte.
+**Restaurant-facit:** Le Chalet ⭐ · Leśniczówka ✅ (intet reelt vinkort trods hjemmesiden) · Bubuja ✅ · Botanicus ❌ · ~~u Miescorza~~ frasorteret. Górska + Litworowy Staw ubesøgte.
 
 ---
 
-## Ben 2 — Liptov, Slovakiet 🔵 NU (lør 18/7 – ons 22/7, 4 nætter)
+## Ben 2 — Liptov, Slovakiet ✅ AFVIKLET (18.–22. juli)
 
 **Bo:** Lake Garden Tatralandia, Grand Lux Two-Bedroom Suite. 1.270 EUR inkl. morgenmad.
-⚠️ Aquaparken ligger **2,6 km væk** — kør, gå ikke.
-
-### Gopass
-4× badeland + 4× svævebane pr. person inkluderet. Kort 3 €/stk (Erik gratis). GoX-cashback ~5% dagen efter check-in — brug under opholdet.
-
-### Svævebane-status
-- **Chopok (Jasná)** — planlagt tirsdag, IKKE brugt. Nå den evt. onsdag, ellers tabt
-- **Skalnaté pleso** — dramatisk buffer-alternativ, kun klart vejr
-
-### Dag-for-dag (som det faktisk gik)
+⚠️ Aquaparken lå **2,6 km væk** — ikke "few steps" som markedsføringen påstod.
 
 | Dag | Dato | Afviklet |
 |---|---|---|
 | **Søn** | 19/7 | ✅ **Tatralandia** (heldag) |
-| **Man** | 20/7 | ✅ **Tatralandia** igen (afveg fra Vlkolínec-plan) |
-| **Tir** | 21/7 | ✅ **Obrovo-familiepark** + frokost **Koliba Richtárka**. Afveg fra grotte/Chopok/Slovenská koliba-planen — ubrugt gondolbillet + grotter. Aften: **YUZA** (ok mad, ikke fremragende) |
-| **Ons** | 22/7 | ✅ **Oravský hrad** på transferdagen (se plan nedenfor) → Czorsztyn |
+| **Man** | 20/7 | ✅ **Tatralandia** igen |
+| **Tir** | 21/7 | ✅ **Obrovo-familiepark** (Čutkovská dolina) + frokost **Koliba Richtárka**. Aften: **YUZA** (ok mad) |
+| **Ons** | 22/7 | ✅ Transfer via **Oravský hrad** (rundvisning "Hrad", 600+ trin) + frokost **Hotel Palatín** (god — bedre end Kastelán/Pod hradom) → Czorsztyn |
 
-### Transferdag onsdag 22/7 — PLAN: Oravský hrad
-Rute nordpå gennem Orava til Czorsztyn (~2 t + borgstop).
-- **GPS:** "Oravský Podzámok" (landsbyen) — følg skilte til borgen. Parkering ved Sv. Jána Nepomuckého-kirken; derfra kort men **stejl gåtur op til borgporten**
-- **Vælg rundvisning "Hrad" (Základný okruh)** — museet anbefaler eksplicit den til børn. "Thurzov palác + Hrad"-kombien frarådes til de mindste (Erik). Den lille "Thurzov palác"-runde er til dem der er bange for højder
-- ⚠️ Hele besøget indebærer **600+ trappetrin** — en del for Erik, men overkommeligt i roligt tempo
-- **Billetter:** online på vstupenky.oravskemuzeum.sk. Tjek åbningsdage/-tider på oravskemuzeum.sk — varierer efter måned, og borgen lukker lejlighedsvis for filmoptagelser, så **verificér dagen før**
-- Bonus i sommersæsonen: flådesejlads (plte) på Orava-floden ved borgen
-
-**Andre muligheder (droppet):** Zuberec frilandsmuseum · Havránok · Chopok-gondol · Bešeňová.
-
-**Salaš:** bryndza, oštiepok/parenica, korbáčiky, kvasená kapusta, klobása, medovina.
-
-**Mad-facit:**
-- Botanicus ❌ · Richtárka ✅ (frokost tir) · **YUZA ✅** (tir aften — ok, ikke fremragende)
-- **Liptovský dvor** ⭐ — fagbedømt topscore ("Liptov Star"). Nåede vi ikke — bedste bud hvis vi kommer igen
-- FLOW · Pho & Sushi/Thuan — ubesøgte alternativer
+**Ikke nået:** Demänovská-grotterne, Chopok-gondolen (1 inkluderet svævebanebillet gik tabt), Vlkolínec, **Liptovský dvor** (⭐ fagbedømt topscore i "Liptov Star" — bedste bud hvis vi kommer igen).
 
 ---
 
-## Ben 3 — Czorsztyn, Polen ✅ (ons 22/7 – lør 25/7, 3 nætter)
+## Ben 3 — Czorsztyn, Polen 🔵 NU (ons 22/7 – lør 25/7)
 
 **Bo:** Czorsztyn Prestige Resort — 140 m², 3 soveværelser, fuldt køkken, aircon, søudsigt. 4.085 PLN.
 
-### Torsdag 23/7 — Dunajec-rafting ✅ KØBT OG BETALT
-- **Billet:** "Rafting + return transport" (officiel butik, ikke partner), **602 zł betalt** — 2 voksne (138) + 1 ungdom/Irma (134, kræver ID/skolebevis, gælder 11-18 år) + Dagmar 8-10 år (98) + Erik 1-7 år (94). Returbus tilbage til bilen inkluderet
-- **Afgang på floden: kl. 10:30** fra Kąty 12, Sromowce Wyżne (~16 min fra hotellet)
-- **TIDSPLAN:** mød ved molen **senest 10:15** (online-billet skal scannes 15 min før) → **afgang fra hotellet ~09:40** (16 min kørsel + buffer til betalt parkering + gå til kassen). Ved sen morgenmad: spis hurtigt, kør senest 09:45 — der er lidt luft, men ikke meget
-- Sejltur Kąty → Szczawnica ~18 km / 2t15 → i land ~12:45 → returbus tilbage til bilen (kører hver ~40 min fra Szczawnica, ul. Główna 7). Vejr: tørt formiddagsvindue, regn først fra ~14-16
-- ⚠️ Tjek vandstand + at turen sejler dagen før — meget regn kan hæve floden (over 240 cm = ingen børnerabat; for højt = aflyst)
-- **Fødselsdag samme dag (Mie):** aftensmad tæt på Czorsztyn efter hjemkomst/hvile — kandidater: **Markowa Zagroda** (Mizerna, ⭐ bedst dokumenteret, 4,8★/3.042, ørred-restaurant m. fiskedamme+legeplads til børnene, book ørred med det samme man sætter sig — tager ~1 t) · **Captain's Tavern** (Kluszkowce, 4,6★/664, søudsigt) · **Restauracja Dwór** (Polana Sosny/Niedzica, historisk 1700-tals herregård, "vinder af konkurrencer" — kun restaurantens egen påstand, ikke uafhængigt bekræftet)
+### Torsdag 23/7 — Dunajec-rafting ✅ AFVIKLET
+- Afgang 10:30 fra Kąty, Sromowce Wyżne → Szczawnica (18 km / 2t15), returbus inkluderet. **602 zł betalt**
+- **Mies fødselsdag samme dag** — takeaway sushi hjemme efter en lang dag
 
-### Øvrige oplevelser
-- **Niedzica-slottet + sejltur** over søen mellem de to borge, badestrande (fredag/buffer)
-- **Cykelruter:** Droga Pienińska (10 km, let) · Velo Czorsztyn (30-40 km) · Wąwóz Homole (7-8 km) · Krościenko (5 km)
-- Resort-poolerne som regnvejrsplan (fredag ser vådt ud)
+### Fredag 24/7 — muligheder
+- **Niedzica-slottet + sejltur** over søen mellem de to borge, badestrande
+- **Brama w Gorce** (Nowy Targ, ~30 min) — Europas længste trækronesti (1.300 m), 2 udsigtstårne, 40 m tunnel, besøgscenter m. legeplads. 2-2,5 t, sidste indgang 17:00. Familiebillet 2+2 = 180 zł + 40 zł pr. ekstra barn → **220 zł for os**. Barnevognsvenlig
+- **Cykelruter:** Droga Pienińska (10 km, let, langs kløften) · Velo Czorsztyn (30-40 km rundt om søen) · Wąwóz Homole (7-8 km) · Krościenko (5 km)
+- Resort-poolerne som regnvejrsplan
+
+### Mad & indkøb
+- **IL FORNO – Pizza Napoletana** (Maniowy) ⭐ **5,0★/158** — bedste pizza i området, ved søen/cykelruten. ⚠️ **Lukket tir-tor**; åben fre-man 13-18
+- **Markowa Zagroda** (Mizerna, 10 min) — 4,8★/3.042, ørred fra egne damme, fiskedamme + legeplads. Ørred tager ~1 t, bestil straks. +48 604 479 956
+- **Weranda** (Szczawnica, 25 min) — 4,8★/1.277, ørred fra kildedambrug, egen vin/øl. Ubesøgt. +48 518 176 973
+- **Captain's Tavern** (Kluszkowce) — 4,6★/664, søudsigt
+- Frasorteret: Bohema (fast food-agtig) · Przełom (rustik) · Pod Siekierkami (kø, svingende) · ~~Absynt~~ (lukket 2022)
+- **Supermarked:** Lewiatan (Karpacka 28, Kluszkowce) 4,5★, godt bagværk · Biedronka Maniowy (til 23:30, lukket søn)
+- **Bacówka u Jasia** (Czorsztyn, 5 min) — 4,6★/286, oscypek lavet på stedet, åben 8-19 dagligt
+- **Vin:** Vinoteka Nowy Targ (Sobieskiego 7) 5,0★ · Wino Morawskie (plac Słowackiego 4) 5,0★, mähriske fadvine ~30 zł/l
 
 ---
 
-## Ben 4 — Kraków ✅ BOOKET (lør 25/7 – ons 29/7, 4 nætter)
+## Ben 4 — Kraków ✅ BOOKET (lør 25/7 – ons 29/7)
 
 **Bo:** Wawel Apartments Old Town Krakow — **Deluxe, 2 soveværelser + balkon**. 3.723 kr/4 nætter.
 - Sov. 1: dobbeltseng (forældre) · Sov. 2: 2 enkeltsenge (Dagmar+Irma) · Stue: sovesofa (Erik)
 - **Privat parkering bekræftet**, aircon, fuldt køkken. Morgenmad tilkøbt separat
 - 1.115 anmeldelser, beliggenhed 9,0. Ikke-refunderbar
 
-**Transferdag (lør 25/7):** Wieliczka på ruten — book NU, Trasa Turystyczna kl. 11-13, 5 pers.
+### Tirsdag 28/7 — Wieliczka saltminen ✅ BOOKET
+- **Tourist Route (Trasa Turystyczna)**, eftermiddag. ~2-3 t, **~380 trin ned** (elevator op), fast **17-18°C — trøjer med**
+- **Billet:** familie 2+2 + 1 reduceret ≈ 551 zł (alle tre børn er "reduceret" — kun under 4 år gratis). **Medbring ID/pas til børnene** — aldersdokumentation kræves ved indgangen
+- **Parkering:** Parking 1 "Tężnia" (Dembowskiego 22, ~3 min gang, GPS 49.984659, 20.052918) eller Parking 2 "Daniłowicz" (Daniłowicza 10, ved skakten). ⚠️ **I juli-august kan P-billetten KUN købes på stedet** — ikke online. Billet skal ligge synligt i bilen
 
-**Oplevelser:** Wawel + dragehule, Rynek · Zakrzówek-søen · Energylandia (afrejsedag) · Plac Nowy + Krako Slow Wines · Auschwitz-alternativ
+### Vejr-strategi for ugen
+- **Man 27/7: regn og torden** (98%, 9,2 mm) → læg **indendørs** ting her: Schindlers Fabrik, Rynek undergrundsmuseum
+- **Tir 28/7: tørt og fint** (20%, 21°) → udendørs formiddag (Rynek, Wawel-gården) før saltminen om eftermiddagen
+
+### Planlagte oplevelser
+- **Schindlers Fabrik** — book direkte hos museet. Oplagt mandag i regnvejret
+- **Auschwitz** — ⚠️ museet **anbefaler ikke besøgende under 14 år** (ingen håndhævet grænse, men 3,5 t tur med krav om ro). **Museet har en pasningsordning ved indgangen**, hvor børn kan afleveres under opsyn — så kan vi voksne gå ind samlet. **Entré gratis**, kun guidet tur koster. Reservation obligatorisk: visit.auschwitz.org. Privat guide kan tilpasses familier
+- Wawel + dragehulen, Rynek, undergrundsmuseet
+- **Zakrzówek**-badesøen (før kl. 10 eller efter 17)
+- **Energylandia** (Zator) på afrejsedagen: tjek ud → hel dag inkl. waterpark → lufthavn 19-20 → fly 23:35
+- Kazimierz-aftener: Plac Nowy zapiekanka · **Krako Slow Wines** (Zabłocie — naturvin)
+
+### Kraków Pass — vurderet og fravalgt
+Både KrakowCard og "The Krakow Pass" (Tiqets) regnet igennem. **Fravalgt**, fordi:
+1. Passet er **per person uden familietier** — Wieliczkas familiebillet (551 zł for alle fem) er langt billigere end 5 pass
+2. **Auschwitz bruges kun af os to voksne** — 3 pass ville være spildt
+3. Passet inkluderer **transport fra Kraków**, som vi ikke skal bruge (egen bil + privat parkering)
 
 ---
 
 ## Mangler at booke
 
-1. **Wieliczka-billetter** — visit.wieliczka-saltmine.com, Trasa Turystyczna, lør 25/7 kl. 11-13, 5 pers.
-2. **Oravský hrad-billetter** — vstupenky.oravskemuzeum.sk, til ons 22/7 (tjek åbningsdag)
-3. Evt. **bordreservation til Mies fødselsdagsmiddag** torsdag 23/7 (Markowa Zagroda anbefalet, ring +48 604 479 956)
+1. **Schindlers Fabrik** — direkte hos museet, til mandag 27/7 (regnvejrsdag)
+2. **Auschwitz** — visit.auschwitz.org, gratis entré + guidet tur for os to. Spørg til pasningsordningen samtidig. Book i god tid
+3. **Energylandia** — afrejsedagen ons 29/7
+4. Evt. bordreservation (Markowa Zagroda / Weranda) inden afrejse fra Czorsztyn
 
 ## Budget (estimat, 5 personer)
 
@@ -161,10 +161,12 @@ Rute nordpå gennem Orava til Czorsztyn (~2 t + borgstop).
 | Terma Bania | ~140 kr ✅ |
 | Morskie Oko | ~900 kr ✅ |
 | Bachledka + vignette + Gopass | ~1.400 kr ✅ |
+| Oravský hrad | ~400 kr ✅ |
 | Dunajec-rafting | ~1.050 kr ✅ |
-| Mad, aktiviteter | 8.000-11.000 kr |
-| **I alt** | **~52.000-55.000 kr** |
+| Wieliczka (familiebillet) | ~960 kr ✅ |
+| Mad, aktiviteter, Energylandia | 8.000-11.000 kr |
+| **I alt** | **~53.000-56.000 kr** |
 
 ---
 
-*Opdateret 21/7 (tir aften): Dunajec-rafting endeligt købt og betalt (tor 23/7 kl. 10:30, 602 zł). Mies fødselsdag samme dag — restaurantforslag tilføjet (Markowa Zagroda anbefalet). Udestående: Wieliczka + Oravský hrad-billetter, evt. bordreservation.*
+*Opdateret 23/7: Ben 2 lukket (Oravský hrad + Hotel Palatín på transferdagen). Rafting afviklet, Mies fødselsdag fejret med takeaway sushi. Wieliczka booket til **tirsdag 28/7** (ikke transferdagen) — familiebillet, P-billet kun på stedet i juli. Kraków Pass vurderet og fravalgt. Auschwitz: 14-års-anbefaling + pasningsordning ved museet. Udestående: Schindlers Fabrik, Auschwitz, Energylandia.*
